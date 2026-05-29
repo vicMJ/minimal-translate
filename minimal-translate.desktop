@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Minimal Translate
+Comment=Floating translation widget
+Exec=minimal-translate
+Icon=minimal-translate
+Type=Application
+Categories=Utility;
+Keywords=translate;translation;dictionary;
